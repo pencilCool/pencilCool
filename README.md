@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- Focusing on iOS
+- Well experienced in optimizing and transforming large app projects
+- A DSP and Audio Tech lover
+- Good at playing wind music
