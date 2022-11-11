@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Focusing on iOS
 - Well experienced in optimizing and refactoring large iOS projects
 - A DSP and Audio Tech lover
-- Good at playing wind music
+- Good at playing Dizi
